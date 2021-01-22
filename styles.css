@@ -194,3 +194,15 @@
 .col-sm-4 button{
     margin-left: 20px;
 }
+ /* fixes the contact form padding */
+.fcf-h3{
+    margin-left: 20px;
+}
+
+h4{
+    margin-left: 20px;
+}
+
+.fcf-form-group{
+    margin-left: 20px;
+}

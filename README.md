@@ -51,6 +51,9 @@ CSS Tested with https://jigsaw.w3.org/ - No errors found in my css code
 Website deployed using github pages
 
 ## Credits
+
+https://www.freecontactform.com/form-guides/html-email-form#htmlform
+
 https://www.montessori.com/montessori-method/curriculum/infants/
 
 Overlay Code help
@@ -110,4 +113,4 @@ https://pixabay.com/photos/playground-empty-lonely-quiet-2263827/
 https://pixabay.com/photos/child-sunset-girl-playground-3520155/
 
 ## Acknowledgements
-I received inspiration for this project from X
+Special thanks to my mentors and my advisor Alexander for their continued support through my whole process
