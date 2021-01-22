@@ -180,3 +180,17 @@
   background: #bb0000;
   color: white;
 }
+
+/* fixes the margins of the colum elements */
+.col-sm-4 h1{
+    margin-left:20px ;
+    margin-top: 7px;
+}
+
+.col-sm-4 p {
+    margin-left:20px;
+}
+
+.col-sm-4 button{
+    margin-left: 20px;
+}
