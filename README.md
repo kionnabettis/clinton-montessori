@@ -6,6 +6,18 @@ The website has a simplified interface so that parents/adults of any age are abl
 ## UX
 This website is for parents that want their child to have a special type of education. Or for those who would like to donate to the organization.
 
+## User Stories
+1. I am a parent and I want to know what a montessori school it.
+- Navigate from the home page and press about us. Or on the home page under the "New Students" area the learn more button leads to the about page. There is information about what a montessori school it.
+2. I am a parent and I want to know what the school year will be like for my child.
+- On the home page there is a direct link to the academic calendar
+3. I am a parent and I want to know what programs are provided.
+- On the home page under the "Our Programs" area the learn more button leads to the programs page
+4. I am a parent and I want to schedule a tour
+-On the hero image a link to schedule a tour is shown on every page of the website
+5. I am a parent and I have a question
+-Use the navigation bar and go to the contact us page- the schedule tour button also leads here
+I made things easier by having the home page lead to the correct destination just in case the adult/parent scrolls down before using the navigation bar.
 ## Features
 The website has a about us page, prospective students page, contact page, and the home page which gives links to the academic calendar and the students page and the about us page.
 The website is simple and easy to navigate. It is also responsive. 
