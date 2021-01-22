@@ -9,6 +9,8 @@ This website is for parents that want their child to have a special type of educ
 ## Features
 The website has a about us page, prospective students page, contact page, and the home page which gives links to the academic calendar and the students page and the about us page.
 The website is simple and easy to navigate. It is also responsive. 
+1.  Wireframes 
+- Located within the assets/pdf-files folder. Some of the wireframe elements have been changed such as the title of the site and elements on each page but it was used as the blueprint
 
 ## Features Left to Implement
 
@@ -30,19 +32,11 @@ The website is simple and easy to navigate. It is also responsive.
 -html was used to build the bones of the site
 
 ## Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+HTML Tested with https://validator.w3.org/ - Error occured. There is an error reguarding my button that I made as an element of <a>. It is not correct but it functions.
+CSS Tested with https://jigsaw.w3.org/ - No errors found in my css code
 
 ## Deployment
+Website deployed using github pages
 
 ## Credits
 https://www.montessori.com/montessori-method/curriculum/infants/
