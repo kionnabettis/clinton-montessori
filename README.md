@@ -46,6 +46,7 @@ The website is simple and easy to navigate. It is also responsive.
 ## Testing
 HTML Tested with https://validator.w3.org/ - Error occured. There is an error reguarding my button that I made as an element of <a>. It is not correct but it functions.
 CSS Tested with https://jigsaw.w3.org/ - No errors found in my css code
+Incorrect code used class ="button"
 
 ## Deployment
 Website deployed using github pages
