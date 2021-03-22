@@ -22,7 +22,7 @@
     -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <!-- <a class="navbar-brand" href="#"></a> -->
+    <a class="navbar-brand" href="index.html">St. Clarence Montessori</a> 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -48,7 +48,7 @@
   </div>
 </div>
 
-<!--Form from https://www.freecontactform.com/form-guides/html-email-form#htmlform-->
+<!--Form from https://www.freecontactform.com/form-guides/html-email-form#htmlform 
 <link href="contact-form.css" rel="stylesheet">
 
 <div class="fcf-body">
@@ -88,12 +88,28 @@
         Simple HTML email form provided by: <a href="https://www.freecontactform.com" target="_blank">FreeContactForm.com</a>
         </div>
 
-    </form>
+    </form> 
     </div>
 
-</div>
+</div> -->
 
+<form
+  action="https://formspree.io/f/xdoynajr"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
 
   </body>
 </html>
