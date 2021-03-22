@@ -12,6 +12,22 @@ color:#003B73!important;
 .navbar-nav{
     color:#003B73!important;
 }
+.div-1{
+    display:inline-block;
+    background-color:#EBEBEB;
+    justify-content:right;
+    
+}
+.div-2{
+    display:inline-block;
+    background-color:#EBEBEB;
+    justify-content:center;
+}
+.div-3{
+    display:inline-block;
+    background-color:#EBEBEB;
+    justify-content:right;
+}
 /* Code used from w3school.com. Code for the hero image used for the home page(index.html) */
 .home-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/colorful-4043742_1920.jpg");
@@ -152,12 +168,13 @@ color:#003B73!important;
 
 /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
 .icon-bar {
-  position: fixed;
+  position: sticky;
+  display:inline-block;
   bottom: 45%;
   left: 0;
-  -webkit-transform: translateX(-50%);
-  -ms-transform: translateX(-50%);
-  transform: translateX(-50%);
+  -webkit-transform: translateX(50%);
+  -ms-transform: translateX(50%);
+  transform: translateY(-50%);
 }
 
 /* Style the icon bar links */
@@ -205,14 +222,17 @@ color:#003B73!important;
 }
  /* fixes the contact form padding */
 .fcf-h3{
+    
     margin-left: 20px;
 }
 
 h4{
+   
     margin-left: 20px;
 }
 
 .fcf-form-group{
+    
     margin-left: 20px;
     
 } 
