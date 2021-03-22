@@ -18,6 +18,7 @@ This website is for parents that want their child to have a special type of educ
 5. I am a parent and I have a question
 -Use the navigation bar and go to the contact us page- the schedule tour button also leads here
 I made things easier by having the home page lead to the correct destination just in case the adult/parent scrolls down before using the navigation bar.
+
 ## Features
 The website has a about us page, prospective students page, contact page, and the home page which gives links to the academic calendar and the students page and the about us page.
 The website is simple and easy to navigate. It is also responsive. 
@@ -44,14 +45,23 @@ The website is simple and easy to navigate. It is also responsive.
 -html was used to build the bones of the site
 
 ## Testing
-HTML Tested with https://validator.w3.org/ - Error occured. There is an error reguarding my button that I made as an element of <a>. It is not correct but it functions.
-CSS Tested with https://jigsaw.w3.org/ - No errors found in my css code
-Incorrect code used class ="button"
+Several steps were taken to test the website in its entirety to make sure everything properly functioned on the front end and backend. The first items tested were the backend elements.
+HTML and CSS were the main coding languages used thus they were tested thru online validators.
+HTML was with https://validator.w3.org/ - This was used to test each html page present. This was the best option to use to test because the code could easily be copied and pasted in the validator.
+A validator was used to quickly scan the code for any errors that might have been missed during the initial coding process.
+The CSS code within the style.css code document was also tested with a validator for css at https://jigsaw.w3.org/ - Once again this was the best course of action due to the simplicity of copying and pasting the code.
+Front end testing was next. The first step of the front end testing was the site repsonsiveness on alternate devices. The free tool https://responsivedesignchecker.com/ was used. With this tool all that is required is the website URL. So (insert website) was typed in and tested.
+The three devices tested for how the website items are displayed were a computer, an android mobile device, an iphone mobile device, and a tablet device. Below is how items are displayed on each device.(insert pictures).
+The website was also tested live on these same devices in real time and displayed the same results. Multiple browsers were also tested. The browsers tested were internet explorer, firefox, chrome, and opera.
+
+The final testing was that of user experience. Testing each link and element of the website from the persepctive of the potential users.
 
 ## Deployment
-Website deployed using github pages
+This website was deployed using github pages. The Steps taken:(show image)
 
 ## Credits
+
+These were my resources that I used for content and for coding help.
 
 https://www.freecontactform.com/form-guides/html-email-form#htmlform
 
@@ -60,7 +70,7 @@ https://www.montessori.com/montessori-method/curriculum/infants/
 Overlay Code help
 https://www.w3schools.com/howto/howto_css_overlay.asp
 
-Some Stuff about developing for different devices
+Used information for developing for different devices
 https://www.w3schools.com/howto/howto_css_devices.asp
 
 https://www.w3schools.com/w3css/w3css_mobile.asp
@@ -69,10 +79,14 @@ This is more about the responsive design
 https://www.w3schools.com/css/css_rwd_intro.asp
 
 ## Content
-Content was copied from https://www.montessori.com/ and https://bloomingtonmontessori.org/programs-curriculum/program-schedules/
+The text and pdf content of my website was used from these sources.
+
+Content was copied from https://www.montessori.com/ and https://bloomingtonmontessori.org/programs-curriculum/program-schedules/ and belongs to the repspectful owners.
 
 
 ## Media
+This all the media used on the website.
+
 Image by <a href="https://pixabay.com/users/andrzejrembowski-2775184/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4299302">Andrzej 
 Rembowski</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4299302">Pixabay</a>
 https://pixabay.com/photos/cooking-lesson-workshops-children-4299302/
@@ -114,4 +128,4 @@ https://pixabay.com/photos/playground-empty-lonely-quiet-2263827/
 https://pixabay.com/photos/child-sunset-girl-playground-3520155/
 
 ## Acknowledgements
-Special thanks to my mentors and my advisor Alexander for their continued support through my whole process
+Special thanks to my mentors and my advisor Alexander for their continued support through my whole process.
