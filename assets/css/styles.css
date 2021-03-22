@@ -4,33 +4,38 @@
   font-family: Arial, Helvetica, sans-serif;
   background-color:#60A3D9 ;
 }
+#school-offerings{
+    height:600px;
+}
+#left{
+    padding-top:10px;
+    width:33%;
+    float:left;
+    background-color:#EBEBEB;
+}
 
+#right{
+    padding-top:10px;
+    width:33%;
+    float:right;
+    background-color:#EBEBEB;
+}
 
+#center{
+    padding-top:10px;
+    width:33%;
+    margin-left:5px;
+    background-color:#EBEBEB;
+}
 .navbar-brand{
 color:#003B73!important;
 }
 .navbar-nav{
     color:#003B73!important;
 }
-.div-1{
-    display:inline-block;
-    background-color:#EBEBEB;
-    justify-content:right;
-    
-}
-.div-2{
-    display:inline-block;
-    background-color:#EBEBEB;
-    justify-content:center;
-}
-.div-3{
-    display:inline-block;
-    background-color:#EBEBEB;
-    justify-content:right;
-}
 /* Code used from w3school.com. Code for the hero image used for the home page(index.html) */
 .home-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/colorful-4043742_1920.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/class-4506654_1920.jpg');
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -65,7 +70,7 @@ color:#003B73!important;
 
 /* Code for the hero image for the prospective-students page */
 .prospective-students-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/class-4506654_1920.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/preschoolers-1191122_1920.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -99,7 +104,7 @@ color:#003B73!important;
 }
 /* Code for the hero image for the about-us page */
 .about-us-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/images/child-3520155_1920.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/frog-1247657_1920.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -133,7 +138,7 @@ color:#003B73!important;
 }
 /* Code for the hero image for the about-us page */
 .contact-us-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/images/web-539757_1920.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/teacher-4784916_1920.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;

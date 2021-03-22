@@ -42,13 +42,16 @@ See here:
 
 ## Technologies Used
 1. [JQuery](https://www.jqueryscript.net/) 
-- jquery was used with boostrap to make sure the navigation bar functioned correctly
+- JQuery was used with boostrap to make sure the navigation bar functioned correctly. It was also used to make the UI better. 
+
 2. [Boostrap](https://getbootstrap.com/) 
-- boostrap was used for the navigation bar, section layout of the pages, and for the site responsiveness.
+- Boostrap was used for the navigation bar, section layout of the pages, and for the site responsiveness.
+
 3. [CSS](https://www.w3.org/Style/CSS/) 
-- css was used to stylize the site
+- CSS was used to stylize the site. For wach 
+
 4. [HTML](https://html.com/) 
--html was used to build the bones of the site
+-HTML was used to build the bones of the site. Each page on this website uses HTML for the body and oganization of the content. 
 
 ## Testing
 Several steps were taken to test the website in its entirety to make sure everything properly functioned on the front end and backend. The first items tested were the backend elements.
