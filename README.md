@@ -25,6 +25,12 @@ The website is simple and easy to navigate. It is also responsive.
 1.  Wireframes 
 - Located within the assets/pdf-files folder. Some of the wireframe elements have been changed such as the title of the site and elements on each page but it was used as the blueprint
 
+## Bugs 
+The main bug I kept running into was when I was trying to add social icons that would follow the user on the page. The element worked on desktop but when tested on mobile it would block the menu items.
+
+See here:
+<img src="/assets/images/SocialIconMobileTest.png" alt="Social Icon Mobile Test"/>
+
 ## Features Left to Implement
 
 1. A donation feature
@@ -47,17 +53,33 @@ The website is simple and easy to navigate. It is also responsive.
 ## Testing
 Several steps were taken to test the website in its entirety to make sure everything properly functioned on the front end and backend. The first items tested were the backend elements.
 HTML and CSS were the main coding languages used thus they were tested thru online validators.
+
 HTML was with https://validator.w3.org/ - This was used to test each html page present. This was the best option to use to test because the code could easily be copied and pasted in the validator.
 A validator was used to quickly scan the code for any errors that might have been missed during the initial coding process.
+
 The CSS code within the style.css code document was also tested with a validator for css at https://jigsaw.w3.org/ - Once again this was the best course of action due to the simplicity of copying and pasting the code.
-Front end testing was next. The first step of the front end testing was the site repsonsiveness on alternate devices. The free tool https://responsivedesignchecker.com/ was used. With this tool all that is required is the website URL. So (insert website) was typed in and tested.
-The three devices tested for how the website items are displayed were a computer, an android mobile device, an iphone mobile device, and a tablet device. Below is how items are displayed on each device.(insert pictures).
-The website was also tested live on these same devices in real time and displayed the same results. Multiple browsers were also tested. The browsers tested were internet explorer, firefox, chrome, and opera.
+Front end testing was next. The first step of the front end testing was the site repsonsiveness on alternate devices. 
+
+The free tool https://responsivedesignchecker.com/ was used. With this tool all that is required is the website URL. So (insert website) was typed in and tested.
+The three devices tested for how the website items are displayed were a computer, an android mobile device, an iphone mobile device, and two tablet devices. 
+
+Below is how items are displayed on each device.(insert pictures).
+Desktop:
+Iphone:
+Samsung Galaxy:
+Ipad:
+Samsung Tablet:
+The website was also tested live on these same devices in real time and displayed the same results. Multiple browsers were also tested. The browsers tested were microsoft edge, firefox, chrome, and opera.
 
 The final testing was that of user experience. Testing each link and element of the website from the persepctive of the potential users.
 
 ## Deployment
-This website was deployed using github pages. The Steps taken:(show image)
+This website was deployed using github pages.
+Step 1: I went to settings in my repo on github.com
+<img src="/assets/images/GitHub1.png" alt="Social Icon Mobile Test"/>
+Step 2: Then I scrolled down to the github pages section. From the 'Source' dropdown I selected 'Main'. I left the theme chooser blank. Then the second dropdown that appeared after I selected Master/Main, I selected 'root'. Then by hitting save my website was automatically published to github pages.
+<img src="/assets/images/GitHub2.png" alt="Social Icon Mobile Test"/>
+
 
 ## Credits
 
