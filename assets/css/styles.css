@@ -171,46 +171,7 @@ color:#003B73!important;
   color: white;
 }
 
-/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
-.icon-bar {
-  position: sticky;
-  display:inline-block;
-  bottom: 45%;
-  left: 0;
-  -webkit-transform: translateX(50%);
-  -ms-transform: translateX(50%);
-  transform: translateY(-50%);
-}
 
-/* Style the icon bar links */
-.icon-bar a {
-  display: block;
-  text-align: center;
-  padding: 16px;
-  transition: all 0.3s ease;
-  color: white;
-  font-size: 13px;
-}
-
-/* Style the social media icons with color, if you want */
-.icon-bar a:hover {
-  background-color: #000;
-}
-
-.facebook {
-  background: #3B5998;
-  color: white;
-}
-
-.twitter {
-  background: #55ACEE;
-  color: white;
-}
-
-.youtube {
-  background: #bb0000;
-  color: white;
-}
 
 /* fixes the margins of the colum elements */
 .col-sm-4 h1{
