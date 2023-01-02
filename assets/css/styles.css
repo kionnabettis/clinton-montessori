@@ -35,7 +35,7 @@ color:#003B73!important;
 }
 /* Code used from w3school.com. Code for the hero image used for the home page(index.html) */
 .home-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/class-4506654_1920.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/images/book.png);
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
