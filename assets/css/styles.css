@@ -70,7 +70,7 @@ color:#003B73!important;
 
 /* Code for the hero image for the prospective-students page */
 .prospective-students-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/preschoolers-1191122_1920.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/preschoolers-1191122_1920.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -104,7 +104,7 @@ color:#003B73!important;
 }
 /* Code for the hero image for the about-us page */
 .about-us-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/frog-1247657_1920.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/frog-1247657_1920.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -138,7 +138,7 @@ color:#003B73!important;
 }
 /* Code for the hero image for the about-us page */
 .contact-us-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/teacher-4784916_1920.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/teacher-4784916_1920.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
